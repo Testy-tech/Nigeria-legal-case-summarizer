@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+sentencepiece
+from google.colab import files
+files.download("requirements.txt")
